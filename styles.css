@@ -1,0 +1,61 @@
+body{
+    color:aliceblue;
+    background-color: black;
+    display:inline-block;
+}
+h1{ 
+    padding: 0;
+    margin-top:2px;
+}
+#imghero{
+    margin-top: 4px;
+    padding:10px;
+}
+ #name{
+ color:white;
+ 
+ font-size: 40px;
+ 
+     
+ }
+  #stat{
+line-height:10px;
+  } 
+  h2{
+     
+    padding:10px;
+  }
+  #srchBtn{
+
+  transition-duration: 0.4s;
+    border-radius:5px;
+
+
+  }
+  #srchBtn:hover{
+    background-color: #4CAF50; /* Green */
+    color: white;
+
+  }
+  #btnn{
+    transition-duration: 0.4s;
+    border-radius:5px;
+    
+  }
+
+  #btnn:hover{
+    background-color: #4CAF50; /* Green */
+    color: white;
+
+  }
+
+  #inputType{
+
+    
+    transition-duration: 0.4s;
+    border-radius:5px;
+}
+
+
+
+ 
